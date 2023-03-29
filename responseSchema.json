@@ -3,7 +3,7 @@
   "$ref": "#/definitions/Welcome9",
   "definitions": {
     "Welcome9": {
-      "type": "object",
+      "type": "array",
       "additionalProperties": false,
       "properties": {
         "id": {

@@ -3,7 +3,7 @@
   "$ref": "#/definitions/Welcome7",
   "definitions": {
     "Welcome7": {
-      "type": "object",
+      "type": "array",
       "additionalProperties": false,
       "properties": {
         "name": {
